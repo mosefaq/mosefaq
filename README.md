@@ -2,7 +2,7 @@
 -  I’m interested in exploring limitations of Machine Learning models, particularly in regards to model generalisability and ethics.
 -  I am currently working on:
   - becoming better at telling compelling (truthful) stories with data
-  - exploring the use of GANs as feature extractors to build models free of bias
+  - exploring the use of GANs as feature extractors to build models free of bias 
 - I have previously worked on:
   - supervise and unsupervised learning models, with a focus on classification and intrusion detection
   - processeses for creating effective train/cross-val/test sets in skewed or imbalanced datasets
