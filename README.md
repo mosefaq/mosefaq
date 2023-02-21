@@ -1,4 +1,4 @@
--  Hi, I’m @mosefaq. I'm listed in my group contributions as Mo/Mohammed/Naz.
+<!-- -  Hi, I’m @mosefaq. I'm listed in my group contributions as Mo/Mohammed/Naz.
 -  I’m interested in exploring limitations of Machine Learning models, particularly in regards to model generalisability and ethics.
 -  I am currently working on:
     - becoming better at telling compelling (truthful) stories with data
