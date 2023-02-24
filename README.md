@@ -1,16 +1,18 @@
-# Hello ~,world~!
+# Hello~,world~!
 
 I'm Mo/Mohammed/Naz (it's a long story!). I'm a recent grad in MSc Mathematics of Cybersecurity from a Top 4 UK Research University. 
 
 Above all else, passionate about Data Science and Machine Learning and working on breaking into the data world!
 
-## What I'm working on:
+<div></div> 
+
+### What I'm working on:
 | Work type | Field | Description | Stack |
 |-----------|-------|-------------|-------|
 | 🛠 Data Engineering + 📊 Visualisation| 📈 Analytics| Cleaning and visualising covid-19 dataset from ourworldindata | SQL Server (T-SQL), Tableau |
 
 
-### What I've worked on: 
+#### What I've worked on: 
 
 | Work type | Field | Description | Stack |
 |-----------|-------|-------------|-------|
@@ -24,7 +26,7 @@ Above all else, passionate about Data Science and Machine Learning and working o
 - 🌟 are personal projects, others were part of my MSc
 
 
-### Future Dream Projects:
+#### Future Dream Projects:
  - Analysing the dying down of mid-budget movies ($15-75mn) and overall Hollywood movie analytics and trends 1980-2020
  - Generative models (GANs) as feature extractors to de-bias model inference (idea from Ian Goodfellow's talk w/ Lex Fridman)
  -  
