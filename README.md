@@ -1,15 +1,15 @@
 # Hello~,world~!
 
-I'm Mo/Mohammed/Naz (it's a long story!). I'm a recent grad in MSc Mathematics of Cybersecurity from a Top 4 UK Research University. 
-
+I'm Mo/Mohammed/Naz (it's a long story!). <br>
+I'm a recent grad in MSc Mathematics of Cybersecurity from a Top 4 UK Research University. <br>
 Above all else, passionate about Data Science and Machine Learning and working on breaking into the data world!
 
 <div></div> 
 
 ### What I'm working on:
 | Work type | Field | Description | Stack |
-|-----------|-------|-------------|-------|
-| 🛠 Data Engineering + 📊 Visualisation| 📈 Analytics| Cleaning and visualising covid-19 dataset from ourworldindata | SQL Server (T-SQL), Tableau |
+|-----------|----------|-------------|-------|
+| 🛠 Data Engineering + 📊 Visualisation| 📈 Analytics  | Cleaning and visualising covid-19 dataset from ourworldindata. Inspired by Alex the Analyst but adding my own touch | SQL Server (T-SQL), Tableau |
 
 
 #### What I've worked on: 
